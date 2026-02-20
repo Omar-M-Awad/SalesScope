@@ -82,8 +82,9 @@ Markets: Asia Pacific, Europe, USCA, LATAM, Africa
 
 ---
 
-## Repository Structure
+### Repository Structure
 
+```text
 project/
 ├── data/
 │   └── global_superstore_2016.xlsx
